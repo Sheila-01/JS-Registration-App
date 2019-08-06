@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    box-sizing: border-box;
+    background-color: #333;
+    color: #fff;
+}
+.container input{
+    display: block;
+    margin-top:15px;
+    }
+.container button{
+        display: block;
+        margin-top:15px;
+        background-color: green;
+        width: 100px;
+        height: 25px;
+        color: #fff;
+
+    }
+.ourPara{
+    display: block;
+}
+    
+
