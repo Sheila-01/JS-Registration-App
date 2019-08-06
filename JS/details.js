@@ -31,3 +31,4 @@ firstName.onchange = function(){
    })
 }};
 
+console.log("App")
